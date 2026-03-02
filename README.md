@@ -144,7 +144,7 @@ If you use this code or the algorithm in your research, please cite the paper:
 ```bibtex
 @article{GC_DBDR_2026,
   title={Correct-by-Construction Dynamic Reachability: A Galois-Connected Approach to Bidirected Dyck Languages},
-  author={Anonymous},
+  author={Xiaofei Zhao},
   journal={Proceedings of the International Symposium on Formal Methods (FM)},
   year={2026}
 }
